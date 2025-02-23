@@ -12,3 +12,8 @@ MyJavaFXApp is a desktop application built using JavaFX. The application allows 
 - **Price Calculation:** Calculate the total price based on the entered details.
 - **Static Text:** Informative text about the service and gold pricing in Pakistan.
 
+https://github.com/user-attachments/assets/b9a819ca-316a-4aa7-bf62-9228c1a6f1a1
+
+
+
+
